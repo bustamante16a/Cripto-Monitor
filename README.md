@@ -8,3 +8,8 @@ Su uso es totalmente gratuito, no requiere licencia alguna.
 
 Se permite su difusion, copia y modificación, siempre que se reconozca y haga mención a los autores principales y colaboradores.
 
+Changelog
+
+-17 de septiembre del 2019-
+*subidos archivos python preliminares
+
