@@ -10,7 +10,5 @@ Se permite su difusion, copia y modificación, siempre que se reconozca y haga m
 
 Changelog
 
--17 de septiembre del 2019-
 
-*subidos archivos python preliminares
 
